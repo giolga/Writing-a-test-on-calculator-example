@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GioLGA\\source\\repos\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58573F77-0ACF-4FC8-9B70-0D150BE51685}|Calculator\\CalculatorTest.csproj|c:\\users\\giolga\\source\\repos\\calculator\\calculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58573F77-0ACF-4FC8-9B70-0D150BE51685}|Calculator\\CalculatorTest.csproj|solutionrelative:calculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016DF9F5-E55C-4448-9FD7-40C5F15F1E59}|Web\\Web.csproj|c:\\users\\giolga\\source\\repos\\calculator\\web\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016DF9F5-E55C-4448-9FD7-40C5F15F1E59}|Web\\Web.csproj|solutionrelative:web\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A91E69C-A08E-40A6-81AE-59C9F4A2C267}|Domain\\Domain.csproj|c:\\users\\giolga\\source\\repos\\calculator\\domain\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A91E69C-A08E-40A6-81AE-59C9F4A2C267}|Domain\\Domain.csproj|solutionrelative:domain\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\Calculator\\Domain\\Calculator.cs",
+              "RelativeDocumentMoniker": "Domain\\Calculator.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\Calculator\\Domain\\Calculator.cs",
+              "RelativeToolTip": "Domain\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:21:04.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\Calculator\\Web\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\Calculator\\Web\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Web\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:05:02.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\Calculator\\Calculator\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "Calculator\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\Calculator\\Calculator\\CalculatorTests.cs",
+              "RelativeToolTip": "Calculator\\CalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:47:47.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
